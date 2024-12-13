@@ -291,7 +291,7 @@ img {
 
 .about__section {
     padding: 10px 0;
-    background: linear-gradient(180deg, black, #001a4d, #7C88A4);
+    background: #001a4d;
 }
 
 .about__data .section__subtitle {
@@ -351,7 +351,7 @@ img {
 
 /*==================== WHY CHOOSE US ====================*/
 .why-choose-us {
-    background: linear-gradient(to bottom, #7C88A4, #ffffff);
+    background:  #ffffff;
 }
 
 .why-choose-us__list {
